@@ -30,7 +30,7 @@ Lover of Typescript, Deno, and Linux. I am excellent at UI, leading a team, ment
 - [Pluralsight Profile](https://app.pluralsight.com/profile/saphirah-pociluyko)
 - [Email Me](mailto:sjpcp5@gmail.com)
 - [Discord #Saphi6515](https://www.discord.com/)
-- [Github Profile](https://gitlab.com/sjpcp5)
+- [Gitlab Profile](https://gitlab.com/sjpcp5)
   
 
 
