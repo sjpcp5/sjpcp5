@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## 🧑‍🎨 Artist | 🧘‍♀️ Yogi | ⚔️ Fencer | 🎖️ U.S. Marine
+## 🔭 Researcher | 🧑‍🎨 Artist | 🧘‍♀️ Yogi | ⚔️ Fencer | 🎖️ U.S. Marine 
 
 ### Seeking frontend or fullstack lead role
 
