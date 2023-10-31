@@ -12,7 +12,7 @@ Lover of Typescript, Deno, and Linux. I am excellent at UI, leading a team, ment
 
 ### 👀[See my CV]().
 
-### ⚙️ Selected Skills
+### ⚙️ [Selected Skills](https://github.com/sjpcp5/sjpcp5/blob/main/skill_list.md)
 - Typescript
 - Javascript
 - CSS3
