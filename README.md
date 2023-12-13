@@ -2,7 +2,7 @@
 
 ### Seeking frontend or fullstack lead role
 
-Lead Application Software Engineer at [MousePaw Media](https://gitlab.mousepawmedia.com/sjpociluyko). Former Tech Lead at [Sparq](https://www.teamsparq.com/). Former Frontend Developer and GIS Analyst at the [Kansas City U.S. Army Corps of Engineers](https://www.nwk.usace.army.mil/).
+Lead Application Software Engineer at [MousePaw Media](https://gitlab.mousepawmedia.com/sjpociluyko). Former Tech Lead at [Sparq](https://www.teamsparq.com/). Former Frontend Developer and GIS Analyst at the [Kansas City U.S. Army Corps of Engineers](https://www.nwk.usace.army.mil/). Check out is my website [portfolio](https://www.cleverciphers.dev).
 
 Lover of Typescript, Deno, and Linux. I am excellent at thinking outside the box, leading a team, mentoring, troubleshooting and debugging.
 
