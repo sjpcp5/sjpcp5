@@ -2,7 +2,11 @@
 
 ### Seeaking Voice Acting Gigs, Writing Projects, Researching and Using AI Technologies
 
-Lead Application Software Engineer at [MousePaw Media](https://gitlab.mousepawmedia.com/sjpociluyko). Former Tech Lead at [Sparq](https://www.teamsparq.com/). Former Frontend Developer and GIS Analyst at the [Kansas City U.S. Army Corps of Engineers](https://www.nwk.usace.army.mil/). Check out is my website [portfolio](https://www.cleverciphers.dev).
+[Backstage Acting Profile] (https://www.backstage.com/tal/saphirahkiss)
+
+Ghost Writer for the Real Moxie in Kansas City. 
+
+Former Lead Application Software Engineer at [MousePaw Media](https://gitlab.mousepawmedia.com/sjpociluyko). Former Tech Lead at [Sparq](https://www.teamsparq.com/). Former Frontend Developer and GIS Analyst at the [Kansas City U.S. Army Corps of Engineers](https://www.nwk.usace.army.mil/). Check out is my website [portfolio](https://www.cleverciphers.dev).
 
 Lover of Typescript, Deno, and Linux. I am excellent at thinking outside the box, designing for the user, services and infrastruture, leading a team, mentoring, troubleshooting and debugging.
 
