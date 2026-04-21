@@ -2,7 +2,7 @@
 
 ### Seeaking Voice Acting Gigs, Writing Projects, Researching and Using AI Technologies
 
-[Backstage Acting Profile] (https://www.backstage.com/tal/saphirahkiss)
+:gem: [Backstage Acting Profile](https://www.backstage.com/tal/saphirahkiss)
 
 Ghost Writer for the Real Moxie in Kansas City. 
 
